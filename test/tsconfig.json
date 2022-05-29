@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "webdriverio/async",
+            "@wdio/mocha-framework",
+            "expect-webdriverio",
+            "@wdio/selenium-standalone-service"
+        ],
+        "target": "es2019"
+    }
+}
